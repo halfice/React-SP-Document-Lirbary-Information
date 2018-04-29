@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "document-lirbary-info-sol-client-side-solution",
+    "id": "54710e42-afba-45af-91ff-16540fb8236f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/document-lirbary-info-sol.sppkg"
+  }
+}

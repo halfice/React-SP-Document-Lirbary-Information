@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "document-lirbary-info-sol",
+    "libraryId": "54710e42-afba-45af-91ff-16540fb8236f",
+    "environment": "spo"
+  }
+}
